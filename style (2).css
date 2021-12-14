@@ -1,0 +1,18 @@
+body{
+    background: white;
+    align-content: center;
+}
+header{
+    text-align: center;
+    font-size: x-large;
+    color: black;
+}
+.menu{
+    display: flex;
+    margin: 5px;
+    text-align: center;
+}
+.menu div{
+    border:black solid;
+    border-radius: 5px;
+}
